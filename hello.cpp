@@ -1,1 +1,7 @@
-peintf("hello world");
+#include<iostream>
+int main()
+{
+    printf("hello world");
+    return 0;
+}
+
